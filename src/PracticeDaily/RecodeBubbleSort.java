@@ -2,7 +2,7 @@ package PracticeDaily;
 
 public class RecodeBubbleSort {
     //I am going to recode bubble sort from memory/my understanding of the
-    /*This took me one try. Bubble Sort is by far the easiest algorithm for me to remember. The concept is very, very
+    /* Completed... This took me one try. Bubble Sort is by far the easiest algorithm for me to remember. The concept is very, very
     straightforward to me. Switching the elements around and boom and boom and boom.
      */
     public static void main(String[] args) {
